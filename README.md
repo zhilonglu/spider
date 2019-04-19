@@ -6,3 +6,5 @@
 * [python-spider](https://github.com/Jack-Cherish/python-spider)
 * [proxy_pool](https://github.com/jhao104/proxy_pool)
 * [Python-crawler](https://github.com/Ehco1996/Python-crawler)
+* [WechatSogou](https://link.zhihu.com/?target=https%3A//github.com/Chyroc/WechatSogou)
+* [distribute_crawler ](https://link.zhihu.com/?target=https%3A//github.com/gnemoug/distribute_crawler)
